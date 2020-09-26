@@ -1,2 +1,2 @@
 # gitpracticeReworkFromStartInDevelopB
-changed eradme file in featurechanged in develop readme filechanged in develop readme file
+changed in develop readme filechanged eradme file in featurechanged in develop readme filechanged in develop readme file
